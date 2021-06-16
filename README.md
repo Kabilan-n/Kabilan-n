@@ -2,7 +2,7 @@
 
 An AI Enthusiast. Much intrested in Machine learning, Data Analytics, NLP, Blockchain and much more........
 
-- 🔭 I’m currently working on COVID Case Analysis
+- 🔭 I’m currently working on COVID 19 Case Analysis
 - 🌱 I’m currently learning Blockchain Technology
 
 
