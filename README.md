@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-
-**Kabilan-n/Kabilan-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+An AI Enthusiast. Much intrested in Machine learning, Data Analytics, NLP, Blockchain and much more........
 
 - 🔭 I’m currently working on COVID Case Analysis
 - 🌱 I’m currently learning Blockchain Technology
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
