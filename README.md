@@ -57,9 +57,6 @@ An AI Enthusiast. Much intrested in Machine learning, Data Analytics, NLP, Block
 </p>
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan-n&show_icons=true&theme=radical)
-
-<br>
 
 ### Latest Blog Posts
 > - 📈 <a href="https://ai538393399.wordpress.com/2021/02/07/singular-value-decomposition-svd/">Singular Value Decomposition (SVD)<a>
