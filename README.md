@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-An AI Enthusiast. Much intrested in Machine learning, Data Analytics, NLP, Blockchain and much more........
+ - AI student @ Amrita Vishwa Vidyapeetham. 
+ - Tech Blogger doing blogs related to Artificial Intelligence and Blockchain Technology.
 
-- 🔭 I’m currently working on COVID 19 Case Analysis
+An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Processing, Data Analytics, NLP, Blockchain and much more........
+
+- 🔭 I’m currently working on Image Text Translation using OCR and Transformers
 - 🌱 I’m currently learning Blockchain Technology
 
 
@@ -62,7 +65,11 @@ An AI Enthusiast. Much intrested in Machine learning, Data Analytics, NLP, Block
 > - 📈 <a href="https://ai538393399.wordpress.com/2021/02/07/singular-value-decomposition-svd/">Singular Value Decomposition (SVD)<a>
 > - 📈 <a href="https://ai538393399.wordpress.com/2021/01/23/eigen-decomposition/">Eigen Decomposition<a>  
 > - 📈 <a href="https://ai538393399.wordpress.com/2021/01/19/principal-component-analysis-using-scikit-learn/">Principal Component Analysis using Scikit-learn<a> 
- > - 📈 <a href="https://ai538393399.wordpress.com/2021/01/08/principal-component-analysis-pca/">Principal Component Analysis (PCA)<a>  
+> - 📈 <a href="https://ai538393399.wordpress.com/2021/01/08/principal-component-analysis-pca/">Principal Component Analysis (PCA)<a>  
+ 
+#### Complete Blog series on Blockchain
+> - 📈 <a href="https://medium.com/@kabilan318/distributed-ledger-technology-dlt-886ccb4ee54f">Distributed Ledger Technology<a>  
+> - 📈 <a href="https://medium.com/@kabilan318/introduction-to-blockchain-aa0035bfe2c2">Introduction to Blockchain<a>   
 
 ### My Blogging Profile
 > - 📈 <a href="https://ai538393399.wordpress.com/author/aiexploreblog/">Wordpess<a>
