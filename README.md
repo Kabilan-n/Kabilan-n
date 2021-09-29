@@ -68,8 +68,8 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
 > - 📈 <a href="https://ai538393399.wordpress.com/2021/01/08/principal-component-analysis-pca/">Principal Component Analysis (PCA)<a>  
  
 #### Complete Blog series on Blockchain
-> - 📈 <a href="https://medium.com/@kabilan318/distributed-ledger-technology-dlt-886ccb4ee54f">Distributed Ledger Technology<a>  
-> - 📈 <a href="https://medium.com/@kabilan318/introduction-to-blockchain-aa0035bfe2c2">Introduction to Blockchain<a>   
+> - 📈 <a href="https://medium.com/@kabilan318/">Blockchain<a>  
+ 
 
 ### My Blogging Profile
 > - 📈 <a href="https://ai538393399.wordpress.com/author/aiexploreblog/">Wordpess<a>
