@@ -19,9 +19,9 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
 >| Python                       | ████████ |
 >| MATLAB                       | ███████░ |  
 >| Scala                        | ███████░ |
+>| Julia                        | ███████░ |
 >| JavaScript                   | ███████░ |
 >| Java                         | ██████░░ | 
->| Julia                        | █████░░░ |
 >| R                            | ███░░░░░ |
 <br>
 
