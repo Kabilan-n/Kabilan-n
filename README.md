@@ -63,10 +63,7 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
 
 
 ### Latest Blog Posts
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/02/07/singular-value-decomposition-svd/">Singular Value Decomposition (SVD)<a>
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/01/23/eigen-decomposition/">Eigen Decomposition<a>  
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/01/19/principal-component-analysis-using-scikit-learn/">Principal Component Analysis using Scikit-learn<a> 
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/01/08/principal-component-analysis-pca/">Principal Component Analysis (PCA)<a>  
+> - 📈 <a href="https://thehackweekly.com/a-comprehensive-history-of-ai-is-here-first-ai-model-to-latest-trends/">A Comprehensive History of AI is here: First AI Model to Latest Trends<a>
  
 #### Complete Blog series on Blockchain
 > - 📈 <a href="https://medium.com/@kabilan318/">Blockchain<a>  
