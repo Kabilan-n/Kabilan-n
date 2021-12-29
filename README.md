@@ -1,12 +1,13 @@
 ### Hi there 👋
 
- - AI student @ Amrita Vishwa Vidyapeetham. 
+ - AI student at Amrita Vishwa Vidyapeetham. 
+ - Deep Learning Intern at The Machine Learning Company
  - Tech Blogger doing blogs related to Artificial Intelligence and Blockchain Technology.
 
 An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Processing, Data Analytics, NLP, Blockchain and much more........
 
 - 🔭 I’m currently working on Image Text Translation using OCR and Transformers
-- 🌱 I’m currently learning Blockchain Technology
+- 🌱 I’m currently learning Blockchain Technology and Explainable AI
 
 
 
