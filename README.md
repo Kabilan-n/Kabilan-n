@@ -6,7 +6,7 @@
 
 An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Processing, Data Analytics, NLP, Blockchain and much more........
 
-- 🔭 I’m currently working on Image Text Translation using OCR and Transformers
+- 🔭 I’m currently working on Graph Neural Networks
 - 🌱 I’m currently learning Blockchain Technology and Explainable AI
 
 
